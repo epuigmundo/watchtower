@@ -35,4 +35,9 @@ class StoreRequest extends Request
         ];
 
     }
+
+    public function all() {
+        $atts = parent::all();
+        return $atts;
+    }
 }
