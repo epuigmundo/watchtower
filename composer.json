@@ -13,9 +13,9 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.3.*",
-        "laravelcollective/html": "5.3.*",
-        "caffeinated/shinobi": "2.0 - 3.0"
+        "laravel/framework": "5.5.*",
+        "laravelcollective/html": "5.5.*",
+        "caffeinated/shinobi": "2.0 - 3.1"
     },
     "autoload": {
         "psr-4": {
