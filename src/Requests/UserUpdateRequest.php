@@ -2,7 +2,7 @@
 
 namespace Smarch\Watchtower\Requests;
 
-use App\Http\Requests\Request;
+use \Request;
 
 class UserUpdateRequest extends Request
 {

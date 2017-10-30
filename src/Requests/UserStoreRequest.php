@@ -2,7 +2,9 @@
 
 namespace Smarch\Watchtower\Requests;
 
-use App\Http\Requests\Request;
+use \Request;
+
+
 
 class UserStoreRequest extends Request
 {
